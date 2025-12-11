@@ -55,4 +55,5 @@ Janesha S
 <img width="1920" height="1080" alt="Screenshot (159)" src="https://github.com/user-attachments/assets/4faf3884-9517-47b5-bc21-470351029c41" />
 
 **RESULTS**
+
 4 bit synchronous up counter is implemented and validated functionality.
